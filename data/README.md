@@ -1,0 +1,47 @@
+# Dữ liệu mực nước sông Hồng
+Dữ liệu thực tế được thu thập trên 3 trạm thuỷ văn Hà Nội, Vụ Quang và Hưng Yên. Mỗi tệp chứa thông tin mực nước tại từng khung giờ cách đều trong các ngày liên tiếp.
+
+Dữ liệu này giúp theo dõi biến động mực nước, phục vụ cho việc phân tích thủy văn và dự báo lũ lụt tại khu vực sông Hồng.
+
+<table>
+  <tr>
+    <th>STT</th>
+    <th>Dataset</th>
+    <th>Interval</th>
+    <th>NumSamples</th>
+    <th>Frequency</th>
+    <th>Max</th>
+    <th>Min</th>
+    <th>Medium</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Vu Quang</td>
+    <td>2008-2017</td>
+    <td>29224</td>
+    <td>3 hours</td>
+    <td>1762.5</td>
+    <td>480</td>
+    <td>830.70</td>
+  </tr>
+    <tr>
+    <td>2</td>
+    <td>Ha Noi</td>
+    <td>2008-2017</td>
+    <td>29224</td>
+    <td>3 hours</td>
+    <td>1042</td>
+    <td>10</td>
+    <td>254.85</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td>Hung Yen</td>
+    <td>2008-2015</td>
+    <td></td>
+    <td>1 hour</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
